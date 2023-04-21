@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-tour-of-heroes"
+  "defaultProject": "angular-tour-of-heroes",
+  "cli": {
+    "analytics": "127b004e-d821-4ce0-90a9-f5ee719e34d4"
+  }
 }
